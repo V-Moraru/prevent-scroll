@@ -1,2 +1,2 @@
 # prevent-scroll
-Prevent page scroll plugin
+Prevent page scroll ajax plugin
